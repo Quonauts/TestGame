@@ -28,3 +28,9 @@ This is my fourth proposal (now edited!)
 
 This replaces the proposal that I permanently deleted
 
+<a name='6'/> 
+
+## #6
+
+The link & log message should hopefully be fixed now
+

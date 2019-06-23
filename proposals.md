@@ -34,3 +34,9 @@ This replaces the proposal that I permanently deleted
 
 The link & log message should hopefully be fixed now
 
+<a name='7'/> 
+
+## #7
+
+The link and log message should hopefully be fixed now
+

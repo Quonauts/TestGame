@@ -2,9 +2,7 @@
 
 <a name='1'/> 
 
-## #1
-
-This is my first proposal
+## #1 — Deleted
 
 <a name='2'/> 
 

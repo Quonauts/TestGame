@@ -6,3 +6,9 @@
 
 This is my first proposal
 
+<a name='2'/> 
+
+## #2
+
+This is my second proposal
+

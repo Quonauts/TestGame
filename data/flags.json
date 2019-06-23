@@ -1,0 +1,6 @@
+{
+	"allow_vote_abstain": false,
+	"allow_vote_change": true,
+	"allow_vote_multi": false,
+	"player_activity_cutoff": 24
+}

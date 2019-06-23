@@ -26,7 +26,7 @@ This is my fourth proposal (now edited!)
 
 ## #5
 
-This replaces the proposal that I permanently deleted
+Now I've edited 5, so it doesn't say anything about deleteing proposals!
 
 <a name='6'/> 
 

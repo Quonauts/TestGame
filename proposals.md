@@ -14,7 +14,7 @@ This is my second proposal
 
 <a name='3'/> 
 
-## #3
+## #3 — Passed
 
 This is my third proposal
 

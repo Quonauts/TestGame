@@ -22,9 +22,3 @@ This is my third proposal
 
 This is my fourth proposal (now edited!)
 
-<a name='5'/> 
-
-## #5
-
-This proposal is about to be deleted
-

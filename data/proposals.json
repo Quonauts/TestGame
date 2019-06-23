@@ -40,11 +40,29 @@
 		{
 			"n": 5,
 			"author": 216295379895844865,
-			"content": "This replaces the proposal that I permanently deleted",
+			"content": "Now I've edited 5, so it doesn't say anything about deleteing proposals!",
 			"status": "voting",
 			"message_id": 592430176390873108,
 			"votes": {},
 			"timestamp": 1561330994
+		},
+		{
+			"n": 6,
+			"author": 216295379895844865,
+			"content": "The link & log message should hopefully be fixed now",
+			"status": "voting",
+			"message_id": 592431224849694730,
+			"votes": {},
+			"timestamp": 1561331244
+		},
+		{
+			"n": 7,
+			"author": 216295379895844865,
+			"content": "The link and log message should hopefully be fixed now",
+			"status": "voting",
+			"message_id": 592431357414604811,
+			"votes": {},
+			"timestamp": 1561331276
 		}
 	]
 }

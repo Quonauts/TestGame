@@ -8,7 +8,7 @@ This is my first proposal
 
 <a name='2'/> 
 
-## #2
+## #2 — Failed
 
 This is my second proposal
 

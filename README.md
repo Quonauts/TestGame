@@ -12,4 +12,4 @@ Below are links to the current game rules, proposals, and logs.
 * [**Proposals**](proposals.md)
 * [**Logs**](logs)
 
-_Last updated UTC 2019-06-23 19:54_
+_Last updated UTC 2019-06-24 16:31_

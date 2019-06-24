@@ -20,7 +20,7 @@ This is my third proposal
 
 ## #4
 
-Editing using a message
+This time I'm editing it using a file! That's pretty cool, isn't it?
 
 <a name='5'/>
 

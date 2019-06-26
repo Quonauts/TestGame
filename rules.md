@@ -12,9 +12,3 @@ Some formatting ...
 
 A [link](https://github.com/)
 
-<a name='sec11'/>
-
-### Subsection
-
-Contents of subsection with internal link to [#sec1]
-

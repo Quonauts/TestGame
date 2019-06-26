@@ -6,6 +6,7 @@ Table of contents
     * [#precedence]
     * [#disallow-by-default]
     * [#rule-violations]
+        * [#errors]
 <a name='meta'/>
 
 ## Meta rules
@@ -33,4 +34,10 @@ Unless explicitly stated in the rules, all game actions are forbidden.
 ### Rule violations
 
 A rule violation is a game action that is not permitted by the rules.
+
+<a name='errors'/>
+
+#### Errors
+
+An error is a rule violation made by a player either mistakenly or through ignorance. If this player is able to alter the game state so that it is as it would be if the error had never occurred, they may do so.
 

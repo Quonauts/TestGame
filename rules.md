@@ -1,6 +1,9 @@
 # Testing Everything Since Tomorrow — Rules
 
-<a name='meta-rules'/>
+Table of contents
+
+* [#meta]
+<a name='meta'/>
 
 ## Meta rules
 

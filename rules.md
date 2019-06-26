@@ -30,7 +30,7 @@ Unless explicitly stated in the rules, all game actions are forbidden.
 
 <a name='rule-violations'/>
 
-### Rule violationis
+### Rule violations
 
 A rule violation is a game action that is not permitted by the rules.
 

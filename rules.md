@@ -5,6 +5,7 @@ Table of contents
 * [#meta]
     * [#precedence]
     * [#disallow-by-default]
+    * [#rule-violations]
 <a name='meta'/>
 
 ## Meta rules
@@ -26,4 +27,10 @@ The clause which appears last in the rules takes precedence.
 ### Disallowed by default
 
 Unless explicitly stated in the rules, all game actions are forbidden.
+
+<a name='rule-violations'/>
+
+### Rule violationis
+
+A rule violation is a game action that is not permitted by the rules.
 

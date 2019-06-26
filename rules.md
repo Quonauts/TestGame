@@ -4,6 +4,7 @@ Table of contents
 
 * [#meta]
     * [#precedence]
+    * [#disallow-by-default]
 <a name='meta'/>
 
 ## Meta rules
@@ -19,4 +20,10 @@ In the case of a contradiction between clauses, the following criteria are to be
 If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.
 If one clause is negative while the other is positive, then the negative clause takes precedence.
 The clause which appears last in the rules takes precedence.
+
+<a name='disallow-by-default'/>
+
+### Disallowed by default
+
+Unless explicitly stated in the rules, all game actions are forbidden.
 

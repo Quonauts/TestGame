@@ -13,6 +13,7 @@
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general-channel)
     * [**2.2. #proposals**](#proposals-channel)
+* [**3. Proposals**](#proposals)
 
 ## <a name='meta'/> Meta rules
 
@@ -78,5 +79,15 @@ Players may converse freely in the <#549428605168648223> channel.
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#549428405968306186> channel is governed by the [#proposals] section of the game rules.
+The <#549428405968306186> channel is governed by the [**3. Proposals**](#proposals) section of the game rules.
+
+## <a name='proposals'/> Proposals
+
+Players may submit proposals by posting their proposal to the <#549428405968306186> game channel.
+
+The first proposal is numbered #1 and each subsequent proposal's number is increased by 1.
+
+A proposal can describe any number of actions that make changes to the game rules, or otherwise alter the game state.
+
+A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.
 

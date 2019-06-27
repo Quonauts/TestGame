@@ -12,6 +12,7 @@
     * [**1.4. Bots**](#bots)
 * [**2. Channels**](#channels)
     * [**2.1. #general**](#general-channel)
+    * [**2.2. #proposals**](#proposals-channel)
 
 ## <a name='meta'/> Meta rules
 
@@ -74,4 +75,8 @@ The game rules govern only messages and reactions in the GAME CHANNELS category 
 ### <a name='general-channel'/> #general
 
 Players may converse freely in the <#549428605168648223> channel.
+
+### <a name='proposals-channel'/> #proposals
+
+The <#549428405968306186> channel is governed by the [<#549428405968306186>] section of the game rules.
 

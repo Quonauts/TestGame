@@ -11,7 +11,7 @@
         * [**1.3.3. Punitive action**](#punitive-action)
     * [**1.4. Bots**](#bots)
 * [**2. Channels**](#channels)
-    * [**2.1. <#549428605168648223>**](#general-channel)
+    * [**2.1. #general**](#general-channel)
 
 ## <a name='meta'/> Meta rules
 
@@ -71,7 +71,7 @@ Certain game functions may be performed automatically by automated "bots;" the b
 
 The game rules govern only messages and reactions in the GAME CHANNELS category of the Discord server.
 
-### <a name='general-channel'/> <#549428605168648223>
+### <a name='general-channel'/> #general
 
 Players may converse freely in the <#549428605168648223> channel.
 

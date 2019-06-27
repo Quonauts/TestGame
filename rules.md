@@ -78,5 +78,5 @@ Players may converse freely in the <#549428605168648223> channel.
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#549428405968306186> channel is governed by the [<#549428405968306186>] section of the game rules.
+The <#549428405968306186> channel is governed by the [#proposals] section of the game rules.
 

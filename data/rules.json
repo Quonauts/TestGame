@@ -1,13 +1,151 @@
 {
 	"channel": 592746627232432129,
 	"rules": {
+		"bots": {
+			"tag": "bots",
+			"title": "Bots",
+			"content": "Certain game functions may be performed automatically by automated \"bots;\" the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient to do manually.",
+			"parent_tag": "meta",
+			"child_tags": [],
+			"message_ids": [
+				593571571159924747
+			]
+		},
+		"channels": {
+			"tag": "channels",
+			"title": "Channels",
+			"content": "The game rules govern only messages and reactions in the GAME CHANNELS category of the Discord server.",
+			"parent_tag": "root",
+			"child_tags": [
+				"general-channel",
+				"proposals-channel"
+			],
+			"message_ids": [
+				593792196482695177
+			]
+		},
+		"disallow-by-default": {
+			"tag": "disallow-by-default",
+			"title": "Disallowed by default",
+			"content": "Unless explicitly stated in the rules, all game actions are forbidden.",
+			"parent_tag": "meta",
+			"child_tags": [],
+			"message_ids": [
+				593571547709440017
+			]
+		},
+		"errors": {
+			"tag": "errors",
+			"title": "Errors",
+			"content": "An error is a rule violation made by a player either mistakenly or through ignorance. If this player is able to alter the game state so that it is as it would be if the error had never occurred, they may do so.",
+			"parent_tag": "rule-violations",
+			"child_tags": [],
+			"message_ids": [
+				593571548951085057
+			]
+		},
+		"general-channel": {
+			"tag": "general-channel",
+			"title": "#general",
+			"content": "Players may converse freely in the <#549428605168648223> channel.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				593792196608524289
+			]
+		},
+		"meta": {
+			"tag": "meta",
+			"title": "Meta rules",
+			"content": "This section details how the rules are to be applied to the game.",
+			"parent_tag": "root",
+			"child_tags": [
+				"precedence",
+				"disallow-by-default",
+				"rule-violations",
+				"bots"
+			],
+			"message_ids": [
+				593567906760097802
+			]
+		},
+		"precedence": {
+			"tag": "precedence",
+			"title": "Precedence",
+			"content": "In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:\n\nIf one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.\nIf one clause is negative while the other is positive, then the negative clause takes precedence.\nThe clause which appears last in the rules takes precedence.",
+			"parent_tag": "meta",
+			"child_tags": [],
+			"message_ids": [
+				593571546916978699
+			]
+		},
+		"proposals": {
+			"tag": "proposals",
+			"title": "Proposals",
+			"content": "Players may submit proposals by posting their proposal to the <#549428405968306186> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1.\n\nA proposal can describe any number of actions that make changes to the game rules, or otherwise alter the game state.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				593795327383961620
+			]
+		},
+		"proposals-channel": {
+			"tag": "proposals-channel",
+			"title": "#proposals",
+			"content": "The <#549428405968306186> channel is governed by [%proposals].",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				593792197283807253
+			]
+		},
+		"punitive-action": {
+			"tag": "punitive-action",
+			"title": "Punitive action",
+			"content": "If a player (hereby \"the convicted player\") is convicted, then another player may conduct a majority poll (called a \"puninitive action poll\") to determine whether punitive action should be taken.\n\nPlayers should vote in favour of this poll if, and only if, they believe the convicted player violated the rules knowingly and with malicious intent.\n\nAny vote in such a poll cast by the convicted player is not counted.\n\nIf a punitive action poll passes, then the convicted player gains one strike.",
+			"parent_tag": "rule-violations",
+			"child_tags": [],
+			"message_ids": [
+				593571570900008970
+			]
+		},
 		"root": {
 			"tag": "root",
 			"title": null,
 			"content": null,
 			"parent_tag": null,
+			"child_tags": [
+				"meta",
+				"channels",
+				"proposals"
+			],
+			"message_ids": [
+				593795327694209056
+			]
+		},
+		"rule-violation-polls": {
+			"tag": "rule-violation-polls",
+			"title": "Rule violation polls",
+			"content": "If any player (hereby \"the accusing player\") believes that another player (hereby \"the accused player\") has violated the rules, then the accusing player may conduct a majority poll (called a \"rule violation poll\") to determine whether the accused player has violated the rules.\n\nIn conducting a rule violation poll, the accusing player must describe which sections or clauses of the rules were violated and what illegal game action was taken by the accused player. Players should vote in favor of this poll if, and only if, they agree that the accused player violated the rules as described.\n\nAny vote in such a poll cast by the accused player is not counted.\n\nA rule violation poll must be available for voting for at least 24 hours before any action may be taken as a result.\n\nFor any potential rule violation, only one rule violation poll may be conducted.\n\nA rule violation poll may not be started more than 7 days after the potential rule violation.\n\nIf a rule violation poll passes, then the accused player is now convicted of violating the rules as described in the poll. The effects of the rule violation must be reversed to the extent it is possible to do so as quickly as possible.",
+			"parent_tag": "rule-violations",
 			"child_tags": [],
-			"message_ids": []
+			"message_ids": [
+				593571570384109585
+			]
+		},
+		"rule-violations": {
+			"tag": "rule-violations",
+			"title": "Rule violations",
+			"content": "A rule violation is a game action that is not permitted by the rules.",
+			"parent_tag": "meta",
+			"child_tags": [
+				"errors",
+				"rule-violation-polls",
+				"punitive-action"
+			],
+			"message_ids": [
+				593571548460351492
+			]
 		}
 	}
 }

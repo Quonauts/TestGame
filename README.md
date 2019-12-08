@@ -13,3 +13,5 @@ Below are links to the current game rules, proposals, and logs.
 * [**Logs**](logs)
 
 _Last updated UTC 2019-06-27 13:51_
+
+test
